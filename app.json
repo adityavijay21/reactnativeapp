@@ -1,5 +1,7 @@
 {
+  
   "expo": {
+   "scheme": "app",
     "name": "resxume",
     "slug": "resxume",
     "version": "1.0.0",
